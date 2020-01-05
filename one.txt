@@ -1,7 +1,5 @@
 first scenario
-<<<<<<< HEAD
 first scenario added try clasor
-=======
 first scenario
 first scenario
->>>>>>> 743bca81ad505da29a65487cb99f8d79c9ec9a4f
+
